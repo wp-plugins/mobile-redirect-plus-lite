@@ -32,11 +32,6 @@ The quickest method for installing the importer is:
 
 == Changelog ==
 
-= 1.0 =
+= 2.3 =
 * Initial Release
-
-== Arbitrary section ==
-
-
-== A brief Markdown Example ==
 
