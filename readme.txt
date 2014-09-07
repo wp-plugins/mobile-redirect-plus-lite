@@ -3,7 +3,7 @@ Contributors: iqbalbary
 Donate link: http://iqbalbary.com/
 Tags: mobile redirect, tablet redirect, wp mobile redirect, Wordpress mobile redirect, android redirect, iphone redirect, ipad redirect
 Requires at least: 3.0.1
-Tested up to: 4.0.0
+Tested up to: 4.0
 Stable tag: 2.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
