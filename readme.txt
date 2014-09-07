@@ -1,7 +1,10 @@
 === Plugin Name ===
 Contributors: iqbalbary
-Donate link: http://iqbalbary.com/
-Tags: mobile redirect, tablet redirect, wp mobile redirect, Wordpress mobile redirect, android redirect, iphone redirect, ipad redirect
+Plugin Name: Mobile Redirect Plus Lite
+Plugin URI: http://iqbalbary.com/item/wp-redirect/
+Tags: redirect, mobile redirect, tablet redirect, wp mobile, android redirect, iphone redirect, ipad redirect, wordpress mobile
+Author URI: http://iqbalbary.com
+Author: Iqbal Bary 
 Requires at least: 3.0.1
 Tested up to: 4.0
 Stable tag: 2.3
