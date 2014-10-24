@@ -14,9 +14,8 @@ function mobi_redirect_menu_lite(){
 				<?php submit_button( ); ?>
 			</form>
 			<hr/>
-			<h2><a href="http://iqbalbary.com/item/wp-redirect/" style="float: left;">Check out Mobile Redirect Plus Pro Feature!!!</a></h2>
+			<h2><a href="http://bitly.com/redirect-plus" style="float: left;">Check out Mobile Redirect Plus Pro Feature!!!</a></h2>
 			<br/><br/>
-			<?php echo '<a href="http://iqbalbary.com/item/wp-redirect/"><img style="opacity: 0.5; float: left; clear: both;" src="' . plugins_url( 'pro.png' , __FILE__ ) . '" ></a> '; ?>
 		</div>
 		<?php
 	}
