@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: iqbalbary
-Plugin Name: Mobile Redirect Plus Lite
+Plugin Name: WP Mobile Redirect
 Plugin URI: http://iqbalbary.com/item/wp-redirect/
 Tags: redirect, mobile redirect, tablet redirect, wp mobile, android redirect, iphone redirect, ipad redirect, wordpress mobile
 Author URI: http://iqbalbary.com
