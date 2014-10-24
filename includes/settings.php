@@ -2,12 +2,12 @@
 
 add_action( 'admin_menu', 'mobi_redirect_menu_lite' );
 function mobi_redirect_menu_lite(){
-	add_options_page( 'Mobile Redirect Plus Lite', 'Mobile Redirect + Lite', 'manage_options', 
+	add_options_page( 'WP Mobile Redirect', 'WP Mobile Redirect', 'manage_options', 
 						'mobile-redirect-plus-lite', 'redirect_options_page_lite' );
 	function redirect_options_page_lite(){
 		?>
 		<div class="wrap">
-			<h2>Mobile Redirect Plus Options</h2>
+			<h2>WP Mobile Redirect Options</h2>
 			<form action="options.php" method="POST">
 				<?php settings_fields( 'mobi-setting-group-lite' ); ?>
 				<?php do_settings_sections( 'mobi-redirect-plus-lite' ); ?>

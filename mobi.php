@@ -2,7 +2,7 @@
 /*
 Plugin Name: WP Mobile Redirect  
 Plugin URI: http://wordpress.org/plugins/mobile-redirect-plus-lite/
-Description: Detect the mobile device and redirect to mobile optimize website
+Description: Detect mobile device and redirect to mobile optimize website. You can also choose whether or not to redirect tablets by enabling or disabling the option. This plugin also gives you the ability to redirect back for viewing full version website.
 Version: 2.4
 Author: Iqbal Bary <contact@iqbalbary.com>
 Author URI: http://iqbalbary.com
