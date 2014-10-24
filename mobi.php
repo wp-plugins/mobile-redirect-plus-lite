@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Mobile Redirect Plus Lite  
+Plugin Name: WP Mobile Redirect  
 Plugin URI: http://wordpress.org/plugins/mobile-redirect-plus-lite/
 Description: Detect the mobile device and redirect to mobile optimize website
 Version: 2.4
