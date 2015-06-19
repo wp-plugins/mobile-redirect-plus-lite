@@ -8,13 +8,15 @@ function mobi_redirect_menu_lite(){
 		?>
 		<div class="wrap">
 			<h2>WP Mobile Redirect Options</h2>
-			<form action="options.php" method="POST">
+			<form action="options.php" method="POST" style="float: left; min-width: 800px;">
 				<?php settings_fields( 'mobi-setting-group-lite' ); ?>
 				<?php do_settings_sections( 'mobi-redirect-plus-lite' ); ?>
 				<?php submit_button( ); ?>
 			</form>
-			<hr/>
-			<h2><a href="http://bitly.com/redirect-plus" style="float: left;">Check out Mobile Redirect Plus Pro Feature!!!</a></h2>
+			<div style="float: left; max-width: 250px;">
+				<a href="http://bitly.com/redirect-plus"><?php echo '<img style="margin-top: 20px;" src="' . plugins_url( 'images/banner.jpg', __FILE__ ) . '" > '; ?></a>
+				<a href="http://bitly.com/redirect-plus"><?php echo '<img style="max-width: 250px; margin-top: 10px;" src="' . plugins_url( 'images/banner2.jpg', __FILE__ ) . '" > '; ?></a>
+			</div>
 			<br/><br/>
 		</div>
 		<?php

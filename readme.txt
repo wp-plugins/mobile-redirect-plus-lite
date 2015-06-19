@@ -6,8 +6,8 @@ Tags: redirect, mobile redirect, tablet redirect, wp mobile, android redirect, i
 Author URI: http://iqbalbary.com
 Author: Iqbal Bary 
 Requires at least: 3.0.1
-Tested up to: 4.0
-Stable tag: 2.4
+Tested up to: 4.2.2
+Stable tag: 2.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -35,6 +35,10 @@ The quickest method for installing the importer is:
 
 == Changelog ==
 
+= 2.5 =
+* Bug Fix
+= 2.4 =
+* Bug Fix
 = 2.3 =
 * Initial Release
 
